@@ -8878,7 +8878,7 @@ break
 case 4:return P.d6()
 case 1:return P.d7(o)}}},t.cL)}},D={
 mo:function(){var s=null
-return new D.LX(["About","Portfolio","Services","Resume","Blog","Contact","Download CV"],[C.oN,C.oK,C.oO,C.oI,C.oQ,C.oJ,C.oL],[new X.Du(s),new A.hB(s),new A.hB(s),new A.hB(s),new A.hB(s),new A.hB(s),new A.hB(s)],[new D.Bf(s),new U.i6(s),new U.i6(s),new U.i6(s),new U.i6(s),new U.i6(s),new U.i6(s)])},
+return new D.LX(["About","Portfolio","Services","Resume","Blog","Contact","Download CV"],[C.oN,C.oK,C.oO,C.oI,C.oQ,C.oJ,C.oL],[new A.hB(s),new A.hB(s),new X.Du(s),new A.hB(s),new A.hB(s),new A.hB(s),new A.hB(s)],[new U.i6(s),new U.i6(s),new D.Bf(s),new U.i6(s),new U.i6(s),new U.i6(s),new U.i6(s)])},
 LX:function LX(a,b,c,d){var _=this
 _.a=a
 _.b=b
@@ -40763,9 +40763,9 @@ c=a8==null?b.go:a8
 return A.cu(r,q,s,a,f,e,d,c,p,o,b.k2,n,l,m,a0,h,b.a,b.cy,k,b.db,a,g,i,j)},
 XJ:function(a,b){return this.kh(null,null,a,null,null,null,null,null,null,null,null,null,null,null,null,null,null,b,null,null,null,null)},
 mn:function(a){return this.kh(null,null,a,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)},
-EY:function(a,b){return this.kh(null,null,a,null,null,null,null,null,null,null,null,b,null,null,null,null,null,null,null,null,null,null)},
 XG:function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r){return this.kh(a,b,c,null,d,e,f,g,null,null,h,i,j,k,l,m,null,n,o,p,q,r)},
 XK:function(a,b){return this.kh(null,null,null,null,null,null,null,null,a,b,null,null,null,null,null,null,null,null,null,null,null,null)},
+EY:function(a,b){return this.kh(null,null,a,null,null,null,null,null,null,null,null,b,null,null,null,null,null,null,null,null,null,null)},
 bZ:function(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c
 if(a==null)return this
 if(!a.a)return a
